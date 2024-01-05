@@ -1,8 +1,8 @@
 import React from "react";
 import "./style.scss";
 
-const pageNotFound = () => {
+const PageNotFound = () => {
   return <div>pageNotFound</div>;
 };
 
-export default pageNotFound;
+export default PageNotFound;
