@@ -47,6 +47,7 @@
     align-items: center;
     color: white;
     text-align: center;
+    position: relative;
     max-width: 800px;
     margin: 0 auto;
   }
@@ -81,7 +82,7 @@
       padding: 0 15px;
       font-size: 14px;
       @include md{
-        width: calc(100% - 100px);
+        width: calc(100% - 150px);
         height: 60px;
         font-size: 20px;
         padding: 0 30px;
